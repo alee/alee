@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a [computer scientist and research software engineer](https://orcid.org/0000-0002-6523-6079) working to improve our understanding of the complex adaptive systems that we must all collectively navigate through open science initiatives like [the Network for Computational Modeling in the Social and Ecological Sciences](https://comses.net), the [Open Modeling Foundation](https://openmodelingfoundation.org), research into the [commons and collective action](https://iasc-commons.org/) 🤲, and computational literacy and education initiatives like [the Carpentries](https://carpentries.org).
+
+[Be kind to each other](https://www.goodreads.com/quotes/1020029-hello-babies-welcome-to-earth-it-s-hot-in-the-summer).
+
 <!--
 **alee/alee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
