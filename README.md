@@ -1,6 +1,12 @@
 ### Oyo! 👋
 
-I'm a [computer scientist and research software engineer](https://orcid.org/0000-0002-6523-6079) working to (hopefully) improve our abilities to understand and adapt to our rapidly changing world. I contribute to open science initiatives like [the Network for Computational Modeling in the Social and Ecological Sciences](https://comses.net), the [Open Modeling Foundation](https://openmodelingfoundation.org), research in the [commons and collective action](https://iasc-commons.org/) 🤲, and computational literacy and education initiatives like [the Carpentries](https://carpentries.org).
+I'm a [computer scientist and research software engineer](https://orcid.org/0000-0002-6523-6079) working to (hopefully) improve our abilities to understand and adapt to our rapidly changing world. I contribute to open science initiatives like [the Network for Computational Modeling in the Social and Ecological Sciences](https://comses.net), [the Open Modeling Foundation](https://openmodelingfoundation.org), [the Digital Archaeological Record](https://www.tdar.org), research in the [commons and collective action](https://iasc-commons.org/) 🤲 and [social ecological science](https://www.openskope.org), and computational literacy and education initiatives like [the Carpentries](https://carpentries.org) and [Girls Who Code](https://girlswhocode.com/).
+
+I also serve on the [BMI Council](https://github.com/csdms/bmi) and the [DataCite Services and Technology Steering Group](https://datacite.org/steering.html).
+
+Check out our your local community symphony! Here's ours, [the Tempe Symphony Orchestra](https://www.tempecenterforthearts.com/events/resident-artists/tempe-symphony-orchestra) - we offer free concerts 4 times / year.
+
+I enjoy supporting [girls hockey](https://www.arizonakachinas.com/).
 
 [Be kind to each other](https://www.goodreads.com/quotes/1020029-hello-babies-welcome-to-earth-it-s-hot-in-the-summer).
 
