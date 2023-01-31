@@ -12,14 +12,14 @@ Since I began my career at ASU in 2006 I've been a proponent of open, transparen
 - [the Research Data Alliance's FAIR For Research Software (FAIR4RS) Working Group](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg)
 - [the FORCE11 Software Citation Implementation Working Group](https://force11.org/groups/software-citation-implementation-working-group/)
 
-Other work includes leading the development of multiplayer "serious games" used to study [collective action and the commons](https://iasc-commons.org/) 🤲 via the ["Virtual Commons"](https://github.com/virtualcommons/) GitHub organization.
+I also develop multiplayer "serious games" used to study [collective action and the commons](https://iasc-commons.org/) 🤲 - check out the ["Virtual Commons"](https://github.com/virtualcommons/) GitHub organization for more details.
 
 
 ### Service
 
-I serve as a [Carpentries](https://carpentries.org) certified instructor and lesson maintainer for the [Python Gapminder lesson](https://github.com/swcarpentry/python-novice-gapminder) and also volunteer as a [Girls Who Code](https://girlswhocode.com/) facilitator.
+I'm a [Carpentries](https://carpentries.org) certified instructor and volunteer lesson maintainer for the [Python Gapminder lesson](https://github.com/swcarpentry/python-novice-gapminder). I also volunteer as a [Girls Who Code](https://girlswhocode.com/) facilitator at ASU.
 
-In my remaining spare time I also do my best to serve on the [BMI Council](https://github.com/csdms/bmi) (2022-), the [DataCite Services and Technology Steering Group](https://datacite.org/steering.html) (2023-), and the [Open Modeling Foundation's](https://openmodelingfoundation.org) [Cyberinfrastructure Working Group](https://www.openmodelingfoundation.org/governance/working-groups/#cyberinfrastructure-working-group) (2022-).
+In my remaining spare time I also do my best to serve on the [Community Surface Dynamics Modeling Systems' Basic Model Interface (BMI) Council](https://github.com/csdms/bmi) (2022-), the [DataCite Services and Technology Steering Group](https://datacite.org/steering.html) (2023-), and the [Open Modeling Foundation's](https://openmodelingfoundation.org) [Cyberinfrastructure Working Group](https://www.openmodelingfoundation.org/governance/working-groups/#cyberinfrastructure-working-group) (2022-).
 
 ### Other Irrelevant Details
 
