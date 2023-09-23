@@ -16,7 +16,7 @@ Since I began my career at [ASU](https://scas.asu.edu) in 2006 I've been a propo
 
 ### Service
 
-- [Carpentries](https://carpentries.org) certified instructor and lesson maintainer for the [Python Gapminder lesson](https://github.com/swcarpentry/python-novice-gapminder)
+- [The Software and Data Carpentries](https://carpentries.org) certified instructor and lesson maintainer for the [Plotting and Programming in Python](https://github.com/swcarpentry/python-novice-gapminder) and [Good Enough Practices for Scientific Computing](https://github.com/carpentries-lab/good-enough-practices) lessons
 - [Community Surface Dynamics Modeling Systems' Basic Model Interface (BMI) Council](https://github.com/csdms/bmi) (2022-)
 - [DataCite Services and Technology Steering Group](https://datacite.org/steering.html) (2023-)
 - [Open Modeling Foundation's](https://openmodelingfoundation.org) [Cyberinfrastructure Working Group co-chair](https://www.openmodelingfoundation.org/governance/working-groups/#cyberinfrastructure-working-group) (2022-)
