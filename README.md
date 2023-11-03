@@ -23,7 +23,10 @@ Since I began my career at [ASU](https://scas.asu.edu) in 2006 I've been a propo
 
 ### Other Irrelevant Details
 
-Music up with your local community symphony, ours is [the Tempe Symphony Orchestra](https://www.tempecenterforthearts.com/events/resident-artists/tempe-symphony-orchestra), we play free concerts 4 times / year at the lovely Tempe Center for the Arts. 
+Music up with your local community symphony!
+
+- [The Tempe Symphony Orchestra](https://www.tempecenterforthearts.com/events/resident-artists/tempe-symphony-orchestra), plays four free concerts / year at the lovely [Tempe Center for the Arts](https://www.tempecenterforthearts.com/)
+- The newly formed [Scottsdale Symphonic Orchestra](https://scottsdalesymphonicorchestra.org/) holds regular concerts at the [Scottsdale Center for the Performing Arts](https://scottsdaleperformingarts.org/)
 
 And [let's go Kachinas!](https://www.arizonakachinas.com/)
 
