@@ -1,8 +1,8 @@
 ### Oyo 👋
 
-I'm a [computer scientist and research software engineer](https://orcid.org/0000-0002-6523-6079) working to (hopefully) improve our abilities to understand and adapt to our rapidly changing world with ["ethically grounded"](https://issues.org/topic/ethics/), evidence-based and adaptive computational science.
+I'm a [computer scientist and research software engineer](https://orcid.org/0000-0002-6523-6079) working to (hopefully) improve our abilities to understand and adapt to our rapidly changing world with [ethically grounded](https://issues.org/topic/ethics/), adaptive, and responsible computational science.
 
-Since I began my career at [ASU](https://scas.asu.edu) in 2006 I've been a proponent of open, transparent computational science. Current and past projects include:
+Since I began my career at [ASU](https://scas.asu.edu) in 2006 I've been a proponent of open, transparent computational science in service of sustainability, collective action, and minimizing the harms we cause to each other and our incredible planet while supporting human dignity and flourishing for all. Current and past projects include:
 
 - [research into collective action and the commons](https://iasc-commons.org/) 🤲 via [multiplayer "serious games" and experiments, the Virtual Commons](https://github.com/virtualcommons/)
 - [the Network for Computational Modeling in the Social and Ecological Sciences (CoMSES Net)](https://comses.net)
@@ -16,19 +16,21 @@ Since I began my career at [ASU](https://scas.asu.edu) in 2006 I've been a propo
 
 ### Service
 
-- [The Software and Data Carpentries](https://carpentries.org) certified instructor and lesson maintainer for the [Plotting and Programming in Python](https://github.com/swcarpentry/python-novice-gapminder) and [Good Enough Practices for Scientific Computing](https://github.com/carpentries-lab/good-enough-practices) lessons
+- [The Software and Data Carpentries](https://carpentries.org) instructor and lesson maintainer for the [Plotting and Programming in Python](https://github.com/swcarpentry/python-novice-gapminder) and [Good Enough Practices for Scientific Computing](https://github.com/carpentries-lab/good-enough-practices) lessons
 - [Community Surface Dynamics Modeling Systems' Basic Model Interface (BMI) Council](https://github.com/csdms/bmi) (2022-)
 - [DataCite Services and Technology Steering Group](https://datacite.org/steering.html) (2023-)
 - [Open Modeling Foundation's](https://openmodelingfoundation.org) [Cyberinfrastructure Working Group co-chair](https://www.openmodelingfoundation.org/governance/working-groups/#cyberinfrastructure-working-group) (2022-)
+- [Consortium of Scientific Software Registries and Repositories](https://scicodes.net) co-chair (2023-2025)
 
 ### Other Irrelevant Details
 
-Music up with your local community symphony!
+Music up with a local symphony! Here's some of ours:
 
 - [The Tempe Symphony Orchestra](https://www.tempecenterforthearts.com/events/resident-artists/tempe-symphony-orchestra), plays four free concerts / year at the lovely [Tempe Center for the Arts](https://www.tempecenterforthearts.com/)
-- The newly formed [Scottsdale Symphonic Orchestra](https://scottsdalesymphonicorchestra.org/) holds regular concerts at the [Scottsdale Center for the Performing Arts](https://scottsdaleperformingarts.org/)
+- The newly formed [Scottsdale Symphonic Orchestra](https://scottsdalesymphonicorchestra.org/) holds regular concerts at the beautiful [Scottsdale Center for the Performing Arts](https://scottsdaleperformingarts.org/)
+- 
 
-And [let's go Kachinas!](https://www.arizonakachinas.com/)
+[So long, Coyotes. Let's go Kachinas!](https://www.arizonakachinas.com/)
 
 ### Conclusion
 
