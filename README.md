@@ -2,7 +2,7 @@
 
 I'm a [computer scientist and research software engineer](https://orcid.org/0000-0002-6523-6079) working to (hopefully) improve our abilities to understand and adapt to our rapidly changing world with [ethically grounded](https://issues.org/topic/ethics/), adaptive, and responsible computational science.
 
-Since I began my career at [ASU](https://scas.asu.edu) in 2006 I've been a proponent of open, transparent computational science in service of sustainability, collective action, and minimizing the harms we cause to each other and our incredible planet while supporting human dignity and flourishing for all. Current and past projects include:
+I began my career at [ASU](https://scas.asu.edu) in 2006 and have long been a proponent of open, transparent computational science in service of sustainability, collective action and Peace. Current and past projects include:
 
 - [research into collective action and the commons](https://iasc-commons.org/) 🤲 via [multiplayer "serious games" and experiments, the Virtual Commons](https://github.com/virtualcommons/)
 - [the Network for Computational Modeling in the Social and Ecological Sciences (CoMSES Net)](https://comses.net)
