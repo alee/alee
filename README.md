@@ -30,13 +30,15 @@ Music up with a local symphony! Here's some of ours:
 - [The Tempe Symphony Orchestra](https://www.tempecenterforthearts.com/events/resident-artists/tempe-symphony-orchestra), plays four free concerts / year at the lovely [Tempe Center for the Arts](https://www.tempecenterforthearts.com/)
 - The newly formed [Scottsdale Symphonic Orchestra](https://scottsdalesymphonicorchestra.org/) holds regular concerts at the [Scottsdale Center for the Performing Arts](https://scottsdaleperformingarts.org/)
 
-Consider listening to Sibelius, Barber, Beach and the usual suspects (Beethoven, Borodin, Brahms, Dvorak, Elgar, Mendelssohn, Mahler, Mozart, Ravel, Saint-Saëns, Tchaikovsky, Rachmaminoff, and the list goes on and on and on)...
+Consider listening to Sibelius, Barber, Beach, Beethoven, Borodin, Brahms, Dvorak, Elgar, Mendelssohn, Mahler, Mozart, Ravel, Saint-Saëns, Tchaikovsky, Рахманинов (Rachmaminoff), and the (list goes on and on ...)
 
 [Later, Coyotes, let's go Kachinas!](https://www.arizonakachinas.com/)
 
 ### Conclusion
 
 [Be kind to each other](https://www.goodreads.com/quotes/1020029-hello-babies-welcome-to-earth-it-s-hot-in-the-summer).
+
+[Make with joie de vivre / 喜乐 / good times](https://flickr.com/photos/shuching)
 
 <!--
 **alee/alee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
