@@ -1,8 +1,8 @@
 ### Oyo 👋
 
-I'm a [computer scientist and research software engineer](https://orcid.org/0000-0002-6523-6079) working to (hopefully) improve our abilities to understand and adapt to our rapidly changing world with [ethically grounded](https://issues.org/topic/ethics/), adaptive, and responsible computational science.
+I'm a [computer scientist and research software engineering lead](https://orcid.org/0000-0002-6523-6079) working to improve our abilities to understand and adapt to our rapidly changing world with [ethically grounded](https://issues.org/topic/ethics/) computational science.
 
-I began my career at [ASU](https://scas.asu.edu) in 2006 and have long been a proponent of open, transparent computational science in service of Sustainability, ethical collective action and Peace. Current and past projects include:
+I began my career at [ASU](https://scas.asu.edu) in 2006 and have long been a proponent of open, transparent computational science in service of sustainability, effective collective action and peace. Current and past projects include:
 
 - [research into collective action and the commons](https://iasc-commons.org/) 🤲 via [multiplayer "serious games" and experiments, the Virtual Commons](https://github.com/virtualcommons/)
 - [the Network for Computational Modeling in the Social and Ecological Sciences (CoMSES Net)](https://www.comses.net)
@@ -30,9 +30,8 @@ Music up with a local symphony! Here's some of ours:
 - [The Tempe Symphony Orchestra](https://www.tempecenterforthearts.com/events/resident-artists/tempe-symphony-orchestra), plays four free concerts / year at the lovely [Tempe Center for the Arts](https://www.tempecenterforthearts.com/)
 - The newly formed [Scottsdale Symphonic Orchestra](https://scottsdalesymphonicorchestra.org/) holds regular concerts at the [Scottsdale Center for the Performing Arts](https://scottsdaleperformingarts.org/)
 
-Consider listening to Sibelius, Barber, Beach, Beethoven, Borodin, Brahms, Dvorak, Elgar, Mendelssohn, Mahler, Mozart, Ravel, Saint-Saëns, Tchaikovsky, Рахманинов (Rachmaminoff), and the (list goes on and on ...)
 
-[Later, Coyotes, let's go Kachinas!](https://www.arizonakachinas.com/)
+[Later Coyotes, let's go Kachinas!](https://www.arizonakachinas.com/)
 
 ### Conclusion
 
