@@ -1,9 +1,10 @@
 ### Oyo 👋
 
-I'm a [computer scientist and research software engineering lead](https://orcid.org/0000-0002-6523-6079) working to improve our abilities to understand and adapt to our rapidly changing world with [ethically grounded](https://issues.org/topic/ethics/) computational science.
+I'm a [computer scientist and research software engineering lead](https://orcid.org/0000-0002-6523-6079) working to improve our abilities to understand, model, and adapt to our rapidly changing world with [ethically grounded](https://issues.org/topic/ethics/) computational science (which now seems to inordinately include agentic AI).
 
-I began my career at [ASU](https://scas.asu.edu) in 2006 and have long been a proponent of open, transparent computational science in service of sustainability, effective collective action and peace. Current and past projects include:
+Since joining [ASU](https://scas.asu.edu) in 2006 I have worked to advance open, transparent computational science in service of sustainability, effective collective action and peace. Current and past projects include:
 
+- human-centered AI systems that amplify scientific reasoning, research software development, and collaborative decision-making
 - [research into collective action and the commons](https://iasc-commons.org/) 🤲 via [multiplayer "serious games" and experiments, the Virtual Commons](https://github.com/virtualcommons/)
 - [the Network for Computational Modeling in the Social and Ecological Sciences (CoMSES Net)](https://www.comses.net)
 - [the Open Modeling Foundation's Cyberinfrastructure Working Group](https://www.openmodelingfoundation.org)
